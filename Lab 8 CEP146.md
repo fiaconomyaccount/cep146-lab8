@@ -1,4 +1,4 @@
-#Lab 8 CEP146#
+**Lab 8 CEP146**
 
 1. *Neural Network Diagram*
   [ Input Layer ]                          [ Middle Layer ]                [ Output Layer ]
@@ -122,6 +122,7 @@ Francis: Our predictions improved over time through a structured feedback loop d
 How did "weights" (tokens) help you learn?
 
 Francis: Weights (tokens) served as a number memory that tracked feature importance instead of relying on guesswork. By assigning defining values such as a positive weight (+1) for highly influential positive features like premium food quality and a negative weight (-1) to penalize unfavorable attributes like high cost. We transformed raw descriptions into structured numbers. This allowed us to calculate an objective weighted sum formula for every scenario, establishing a distinct score threshold where positive totals predicted a "LIKE" and negative values dictated a "DISLIKE".
+
 What would happen with more layers or inputs?
 
 Francis: Expanding the network with additional feature inputs of location accessibility, ambiance, or wait times would provide the system with a richer real world perspective, although it would demand significantly more data to successfully adjust the new weights. Furthermore, introducing new layers would elevate this model into a deep neural network. A deeper structure allows an AI to compute highly advanced, non-linear variables, identifying complex rules such as discovering that a customer might tolerate poor service exclusively when the food is extraordinary and the bill is low.
