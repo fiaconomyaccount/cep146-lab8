@@ -21,110 +21,97 @@ Price	💰 💰            2 Moderate  | > 1 Cheap > 2 Moderate > 3 Expensive
 2. *Scenario Cards*
 
 Card 1
-
-• Food: Great > My response 2                                   
-• Service: Poor > My response 0                                                                                                                       
-• Price: Cheap > My response 1                                      
-• Customer Opinion: LIKE > My response was Incorrect
-(2 x 1 token) + (0 Poor x 1 token) + (1 x 1 token) = 3 total tokens
+* **Food**: Great > My response 2
+* **Service**: Poor > My response 0
+* **Price**: Cheap > My response 1
+* **Customer Opinion**: LIKE > My response was Incorrect
+* **Calculation**: (2 x 1 token) + (0 x 1 token) + (1 x 1 token) = 3 total tokens
 
 Card 2
-
-• Food: Bad > My response 0
-• Service: Great > My response 2
-• Price: Expensive > My response 3
-• Customer Opinion: DISLIKE > My response DISLIKE was Correct
-(-1  x 1 token) + ( 1 x 2 tokens) + (-1 x 3 tokens) = -2 total tokens
+* **Food**: Bad > My response 0
+* **Service**: Great > My response 2
+* **Price**: Expensive > My response 3
+* **Customer Opinion**: DISLIKE > My response DISLIKE was Correct 
+* **Calculation**: (-1 x 1 token) + (1 x 2 tokens) + (-1 x 3 tokens) = -2 total tokens
 
 Card 3
-
-• Food: Good > My response 2
-• Service: Okay > My response 2
-• Price: Moderate > My response 2
-• Customer Opinion: LIKE > My response LIKE was Correct
-• (0 x 2 tokens) + (0 x 2 tokens) + (0 x 2 tokens) = 0 total tokens
+* **Food**: Good > My response 2
+* **Service**: Okay > My response 2
+* **Price**: Moderate > My response 2
+* **Customer Opinion**: LIKE > My response LIKE was Correct
+* **Calculation**: (0 x 2 tokens) + (0 x 2 tokens) + (0 x 2 tokens) = 0 total tokens
 
 Card 4
-
-• Food: Poor > My response 1
-• Service: Poor > My response 3
-• Price: Cheap > My response 2
-• Customer Opinion: DISLIKE > My response DISLIKE was Correct
-• (-1 x 1 token) + (-1 x 3 tokens) + (1 x 2 tokens) = -2 total tokens
+* **Food**: Poor > My response 1
+* **Service**: Poor > My response 3
+* **Price**: Cheap > My response 2
+* **Customer Opinion**: DISLIKE > My response DISLIKE was Correct
+* **Calculation**: (-1 x 1 token) + (-1 x 3 tokens) + (1 x 2 tokens) = -2 total tokens
 
 Card 5
-
-• Food: Excellent > My response 3
-• Service: Excellent > My response 3
-• Price: Expensive > My response 0
-• Customer Opinion: LIKE > My response DISLIKE was Incorrect
-• (1 x 3 tokens) + (1 x 3 tokens) + (-1 x 0 tokens) = 6 total tokens
+* **Food**: Excellent > My response 3
+* **Service**: Excellent > My response 3
+* **Price**: Expensive > My response 0
+* **Customer Opinion**: LIKE > My response DISLIKE was Incorrect
+* **Calculation**: (1 x 3 tokens) + (1 x 3 tokens) + (-1 x 0 tokens) = 6 total tokens
 
 Card 6
-
-• Food: Okay > My response 2
-• Service: Bad > My response 1
-• Price: Moderate > My response 3
-• Customer Opinion: DISLIKE > My response LIKE was Incorrect
-• (0 x 2 tokens) + (-1 x 1 token) + (0 x 3 tokens) = -1 total tokens
+* **Food**: Okay > My response 2
+* **Service**: Bad > My response 1
+* **Price**: Moderate > My response 3
+* **Customer Opinion**: DISLIKE > My response LIKE was Incorrect
+* **Calculation**: (0 x 2 tokens) + (-1 x 1 token) + (0 x 3 tokens) = -1 total tokens
 
 Card 7
-
-• Food: Great > My response 2
-• Service: Okay > My response 1
-• Price: Cheap > My response 1
-• Customer Opinion: LIKE > My response DISLIKE was Incorrect
-• (1 x 2 tokens) + (0 x 1 token) + (1 x 1 token) = 3 total tokens
+* **Food**: Great > My response 2
+* **Service**: Okay > My response 1
+* **Price**: Cheap > My response 1
+* **Customer Opinion**: LIKE > My response DISLIKE was Incorrect
+* **Calculation**: (1 x 2 tokens) + (0 x 1 token) + (1 x 1 token) = 3 total tokens
 
 Card 8
-
-• Food: Poor > My response 1
-• Service: Excellent > My response 3
-• Price: Expensive > My response 3
-• Customer Opinion: DISLIKE > My response LIKE was Incorrect
-• (-1 x 1 token) + (1 x 3 tokens) + (-1 x 3 tokens) = -1 total tokens
+* **Food**: Poor > My response 1
+* **Service**: Excellent > My response 3
+* **Price**: Expensive > My response 3
+* **Customer Opinion**: DISLIKE > My response LIKE was Incorrect
+* **Calculation**: (-1 x 1 token) + (1 x 3 tokens) + (-1 x 3 tokens) = -1 total tokens
 
 Card 9
-
-• Food: Excellent > My response 3
-• Service: Poor > My response 0
-• Price: Moderate > My response 1
-• Customer Opinion: LIKE > My response LIKE was Correct
-• (1 x 3 tokens) + (-1 x 0 tokens) + (0 x 1 token) = 3 total tokens
+* **Food**: Excellent > My response 3
+* **Service**: Poor > My response 0
+* **Price**: Moderate > My response 1
+* **Customer Opinion**: LIKE > My response LIKE was Correct
+* **Calculation**: (1 x 3 tokens) + (-1 x 0 tokens) + (0 x 1 token) = 3 total tokens
 
 Card 10
-
-• Food: Okay > My response 1
-• Service: Okay > My response 1
-• Price: Expensive > My response 3
-• Customer Opinion: DISLIKE > My response DISLIKE was Correct
-• (0 x 1 token) + (0 x 1 token) + (-1 x 3 tokens) = -3 total tokens
+* **Food**: Okay > My response 1
+* **Service**: Okay > My response 1
+* **Price**: Expensive > My response 3
+* **Customer Opinion**: DISLIKE > My response DISLIKE was Correct
+* **Calculation**: (0 x 1 token) + (0 x 1 token) + (-1 x 3 tokens) = -3 total tokens
 
 Card 11
-
-• Food: Good > My response 2
-• Service: Excellent > My response 3
-• Price: Cheap > My response 2
-• Customer Opinion: LIKE > My response LIKE was Correct
-• (1 x 2 tokens) + (1 x 3 tokens) + (1 x 2 tokens) = 7 total tokens
+* **Food**: Good > My response 2
+* **Service**: Excellent > My response 3
+* **Price**: Cheap > My response 2
+* **Customer Opinion**: LIKE > My response LIKE was Correct
+* **Calculation**: (1 x 2 tokens) + (1 x 3 tokens) + (1 x 2 tokens) = 7 total tokens
 
 Card 12
-
-• Food: Bad > My response 2
-• Service: Bad > My response 2
-• Price: Expensive > My response 3
-• Customer Opinion: DISLIKE > My response DISLIKE was Correct
-• (-1 x 2 tokens) + (-1 x 2 tokens) + (-1 x 3 tokens) = -7 total tokens
+* **Food**: Bad > My response 2
+* **Service**: Bad > My response 2
+* **Price**: Expensive > My response 3
+* **Customer Opinion**: DISLIKE > My response DISLIKE was Correct
+* **Calculation**: (-1 x 2 tokens) + (-1 x 2 tokens) + (-1 x 3 tokens) = -7 total tokens
 
 Card 13
+* **Food**: Excellent > My response 2
+* **Service**: Great > My response 1
+* **Price**: Moderate > My response 4
+* **Customer Opinion**: LIKE > My response LIKE was Correct
+* **Calculation**: (1 x 2 tokens) + (1 x 1 token) + (0 x 4 tokens) = 3 total tokens 
 
-• Food: Excellent > My response 2
-• Service: Great > My response 1
-• Price: Moderate > My response 4
-• Customer Opinion: LIKE > My response LIKE was Correct
-• (1 x 2 tokens) + (1 x 1 token) + (0 x 4 tokens) = 3 total tokens
- 
-The Token total amount is (3) + (-2) + (0) + (-2) + (6) + (-1) + (3) + (-1) + (3) + (-1) + (7) + (-7) + (3) = 9
+The Token total amount is: (3) + (-2) + (0) + (-2) + (6) + (-1) + (3) + (-1) + (3) + (-1) + (7) + (-7) + (3) = 9
 
 3. *Reflection Discussion* 
 
