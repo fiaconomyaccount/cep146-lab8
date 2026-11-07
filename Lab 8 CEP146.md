@@ -1,4 +1,4 @@
-**Lab 8 CEP146**
+#### Lab 8 CEP146
 
 1. *Neural Network Diagram*
   [ Input Layer ]                          [ Middle Layer ]                [ Output Layer ]
