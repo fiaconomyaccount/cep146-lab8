@@ -12,7 +12,7 @@ Team Member Roles
   - Decision Node: Hyeonjin, Micheal and Kyle (Math Simulation Flow)
   - Observer/Tracker: Francis (Monitored weight tokens, and logged my compared accuracy)
 
-Weight (Token) Tracker
+Weight (Token) Tracker Reference 
 
 | Feature | Tokens (Weight) | Scale Definition Mapping |
 | :--- | :--- | :--- |
