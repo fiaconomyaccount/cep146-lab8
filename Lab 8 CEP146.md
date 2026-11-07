@@ -21,6 +21,7 @@ Price	💰 💰            2 Moderate  | > 1 Cheap > 2 Moderate > 3 Expensive
 2. *Scenario Cards*
 
 Card 1
+
 • Food: Great > My response 2                                   
 • Service: Poor > My response 0                                                                                                                       
 • Price: Cheap > My response 1                                      
@@ -28,6 +29,7 @@ Card 1
 (2 x 1 token) + (0 Poor x 1 token) + (1 x 1 token) = 3 total tokens
 
 Card 2
+
 • Food: Bad > My response 0
 • Service: Great > My response 2
 • Price: Expensive > My response 3
@@ -35,6 +37,7 @@ Card 2
 (-1  x 1 token) + ( 1 x 2 tokens) + (-1 x 3 tokens) = -2 total tokens
 
 Card 3
+
 • Food: Good > My response 2
 • Service: Okay > My response 2
 • Price: Moderate > My response 2
@@ -42,6 +45,7 @@ Card 3
 • (0 x 2 tokens) + (0 x 2 tokens) + (0 x 2 tokens) = 0 total tokens
 
 Card 4
+
 • Food: Poor > My response 1
 • Service: Poor > My response 3
 • Price: Cheap > My response 2
@@ -49,6 +53,7 @@ Card 4
 • (-1 x 1 token) + (-1 x 3 tokens) + (1 x 2 tokens) = -2 total tokens
 
 Card 5
+
 • Food: Excellent > My response 3
 • Service: Excellent > My response 3
 • Price: Expensive > My response 0
@@ -56,6 +61,7 @@ Card 5
 • (1 x 3 tokens) + (1 x 3 tokens) + (-1 x 0 tokens) = 6 total tokens
 
 Card 6
+
 • Food: Okay > My response 2
 • Service: Bad > My response 1
 • Price: Moderate > My response 3
@@ -63,6 +69,7 @@ Card 6
 • (0 x 2 tokens) + (-1 x 1 token) + (0 x 3 tokens) = -1 total tokens
 
 Card 7
+
 • Food: Great > My response 2
 • Service: Okay > My response 1
 • Price: Cheap > My response 1
@@ -70,6 +77,7 @@ Card 7
 • (1 x 2 tokens) + (0 x 1 token) + (1 x 1 token) = 3 total tokens
 
 Card 8
+
 • Food: Poor > My response 1
 • Service: Excellent > My response 3
 • Price: Expensive > My response 3
@@ -77,6 +85,7 @@ Card 8
 • (-1 x 1 token) + (1 x 3 tokens) + (-1 x 3 tokens) = -1 total tokens
 
 Card 9
+
 • Food: Excellent > My response 3
 • Service: Poor > My response 0
 • Price: Moderate > My response 1
@@ -84,6 +93,7 @@ Card 9
 • (1 x 3 tokens) + (-1 x 0 tokens) + (0 x 1 token) = 3 total tokens
 
 Card 10
+
 • Food: Okay > My response 1
 • Service: Okay > My response 1
 • Price: Expensive > My response 3
@@ -91,6 +101,7 @@ Card 10
 • (0 x 1 token) + (0 x 1 token) + (-1 x 3 tokens) = -3 total tokens
 
 Card 11
+
 • Food: Good > My response 2
 • Service: Excellent > My response 3
 • Price: Cheap > My response 2
@@ -98,6 +109,7 @@ Card 11
 • (1 x 2 tokens) + (1 x 3 tokens) + (1 x 2 tokens) = 7 total tokens
 
 Card 12
+
 • Food: Bad > My response 2
 • Service: Bad > My response 2
 • Price: Expensive > My response 3
@@ -105,6 +117,7 @@ Card 12
 • (-1 x 2 tokens) + (-1 x 2 tokens) + (-1 x 3 tokens) = -7 total tokens
 
 Card 13
+
 • Food: Excellent > My response 2
 • Service: Great > My response 1
 • Price: Moderate > My response 4
