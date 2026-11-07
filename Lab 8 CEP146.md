@@ -12,11 +12,13 @@ Team Member Roles
   - Decision Node: Hyeonjin, Micheal and Kyle (Math Simulation Flow)
   - Observer/Tracker: Francis (Monitored weight tokens, and logged my compared accuracy)
 
-Weight (Token) Tracker
-Feature	Tokens (Weight)
-Food	🍗 🍗 🍗     3 Excellent     | > 0 Bad > 1 Okay > 2 Great > 3 Excellent
-Service	🍽️                 1 Okay           | > 0 Poor > 1 Okay > 2 Great > 3 Excellent
-Price	💰 💰            2 Moderate  | > 1 Cheap > 2 Moderate > 3 Expensive
+### Weight (Token) Tracker
+
+| Feature | Tokens (Weight) | Scale Definition Mapping |
+| :--- | :--- | :--- |
+| **Food** | 🍗 🍗 🍗 (3 Excellent) | `0 Bad > 1 Okay > 2 Great > 3 Excellent` |
+| **Service** | 🍽️ (1 Okay) | `0 Poor > 1 Okay > 2 Great > 3 Excellent` |
+| **Price** | 💰 💰 (2 Moderate) | `1 Cheap > 2 Moderate > 3 Expensive` |
 
 2. *Scenario Cards*
 
