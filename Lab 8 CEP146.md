@@ -113,7 +113,7 @@ Card 13
 * **Customer Opinion**: LIKE > My response LIKE was Correct
 * **Calculation**: (1 x 2 tokens) + (1 x 1 token) + (0 x 4 tokens) = 3 total tokens 
 
-The Token Total Amount: 
+The Token Total Amount  
 (3) + (-2) + (0) + (-2) + (6) + (-1) + (3) + (-1) + (3) + (-1) + (7) + (-7) + (3) = 9
 
 3. ## Reflection Discussion
