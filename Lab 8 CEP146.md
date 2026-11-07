@@ -1,6 +1,6 @@
 ### Lab 8 CEP146
 
-1. ## Neural Network Diagram
+1. # Neural Network Diagram
   [ Input Layer ]                          [ Middle Layer ]                [ Output Layer ]
 
    (Food Value)    -------------\                                               
@@ -20,7 +20,7 @@ Weight (Token) Tracker
 | **Service** | 🍽️ (1 Okay) | `0 Poor > 1 Okay > 2 Great > 3 Excellent` |
 | **Price** | 💰 💰 (2 Moderate) | `1 Cheap > 2 Moderate > 3 Expensive` |
 
-2. ## Scenario Cards
+2. # Scenario Cards
 
 Card 1
 * **Food**: Great > My response 2
@@ -115,7 +115,7 @@ Card 13
 
 The Token total amount is: (3) + (-2) + (0) + (-2) + (6) + (-1) + (3) + (-1) + (3) + (-1) + (7) + (-7) + (3) = 9
 
-3. ## Reflection Discussion
+3. # Reflection Discussion
 
 How did are predictions improve?
 
