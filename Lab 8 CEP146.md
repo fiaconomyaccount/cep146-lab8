@@ -1,4 +1,4 @@
-#### Lab 8 CEP146
+### Lab 8 CEP146
 
 1. *Neural Network Diagram*
   [ Input Layer ]                          [ Middle Layer ]                [ Output Layer ]
@@ -12,7 +12,7 @@ Team Member Roles
   - Decision Node: Hyeonjin, Micheal and Kyle (Math Simulation Flow)
   - Observer/Tracker: Francis (Monitored weight tokens, and logged my compared accuracy)
 
-### Weight (Token) Tracker
+Weight (Token) Tracker
 
 | Feature | Tokens (Weight) | Scale Definition Mapping |
 | :--- | :--- | :--- |
