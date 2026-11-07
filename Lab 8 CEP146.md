@@ -10,7 +10,7 @@
 Team Member Roles 
   - Input Feeder: Hyeonjin, Micheal and Kyle
   - Decision Node: Hyeonjin, Micheal and Kyle (Math Simulation Flow)
-  - Observer/Tracker: Francis (Monitored weight tokens, and logged my compared accuracy)
+  - Observer/Tracker: Francis (Monitored weight tokens, and logged in my compared accuracy)
 
 Weight (Token) Tracker Reference 
 
